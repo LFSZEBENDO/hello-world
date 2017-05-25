@@ -1,4 +1,2 @@
-# hello-world
+# Readme
 Just another repository
-
-Bla bla bla bla bla
